@@ -1,1 +1,2 @@
 --SQL References
+--Create table data_type
